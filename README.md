@@ -1,4 +1,4 @@
-# 🤖 Telegram Scheduler Bot
+# Telegram Scheduler Bot
 
 Бот для автоматической рассылки фото с текстом по расписанию.
 
