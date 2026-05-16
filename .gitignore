@@ -1,0 +1,9 @@
+session.session
+__pycache__/
+*.pyc
+*.log
+photos/*.jpg
+photos/*.png
+schedule_config.json
+config_local.py
+.env
